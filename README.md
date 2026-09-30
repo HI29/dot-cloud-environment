@@ -1,3 +1,3 @@
 # Dot Cloud Environment
 
-Private repository used only to provide a minimal Codex Cloud environment for the ChatGPT dot.
+Purpose-built repository containing only the minimal files needed for a Codex Cloud environment used by the ChatGPT dot.
